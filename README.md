@@ -141,41 +141,7 @@ This helps identify batting patterns and scoring behavior.
 
 Note: The original IPL dataset is not included in this repository due to file size limitations. The dashboard was built using publicly available IPL ball-by-ball and match datasets.
 
-## Repository Structure
 
-IPL-Match-Intelligence-Dashboard/
-
-├── Dataset/
-
-│   ├── BallbyBall.csv
-
-│   ├── Matches.csv
-
-│   ├── Players.csv
-
-│   └── Teams.csv
-
-│
-
-├── Dashboard Screenshots/
-
-│   ├── Page1_Overview.png
-
-│   ├── Page2_Batting_Analytics.png
-
-│   ├── Page3_Bowling_Analytics.png
-
-│   ├── Page4_Match_Intelligence.png
-
-│   └── Page5_Advanced_Player_Intelligence.png
-
-│
-
-├── IPL_Match_Intelligence_Dashboard.pbix
-
-├── README.md
-
-└── Project_Report.pdf (Optional)
 
 ---
 
