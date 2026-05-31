@@ -139,6 +139,8 @@ This helps identify batting patterns and scoring behavior.
 
 ---
 
+Note: The original IPL dataset is not included in this repository due to file size limitations. The dashboard was built using publicly available IPL ball-by-ball and match datasets.
+
 ## Repository Structure
 
 IPL-Match-Intelligence-Dashboard/
